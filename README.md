@@ -24,10 +24,10 @@
 
 ### 🔸 우선순위 큐
 - [BOJ 2075 - N번째 큰 수 (실버 3)](https://www.acmicpc.net/problem/2075)
-
+  
+### 🔸 그리디
+- [BOJ 1080 - 행렬 (실버 1) ](https://www.acmicpc.net/problem/1080)
 ---
-
-## 📌 Summary
 
 - 📚 **N과 M 시리즈**
 
