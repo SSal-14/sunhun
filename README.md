@@ -34,8 +34,21 @@
 ### 🔸 백트래킹, DFS, 조합 ✔️ **다시 풀어보자*
 - [SWEA - 햄버거 다이어 (D3) ](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgWnFE6VcXHBIN_&contestProbId=AWT-lPB6dHUDFAVT&probBoxId=AZgWnFE6VcbHBIN_+&type=PROBLEM&problemBoxTitle=%EC%82%AC%EC%A0%84%ED%8F%89%EA%B0%80&problemBoxCnt=++3+)
 
+## 📅 2025.07.18
+
+
+### 🔸 조합, 백트래킹
+- [[BOJ 15650 - N과 M (2) (실버 3)](https://www.acmicpc.net/problem/15650) ✔️ **다시 풀어보자**
+
+### 🔸 스택 연습
+- [[BOJ 10828 - 스택 (실버 4)](https://www.acmicpc.net/problem/10828)
+- [[BOJ 9093 - 단어 뒤집기 (브론즈 1)](https://www.acmicpc.net/problem/9093)
+- [[BOJ 9012 - 괄호 (실버 4)](https://www.acmicpc.net/problem/9012)
+- [[BOJ 1874 - 스택 수열 (실버 2)](https://www.acmicpc.net/problem/1874)
+- [[BOJ 17298 - 오큰수 (골드 4)](https://www.acmicpc.net/problem/17298)
+
 ### 🔸 DP(LIS)
-- [SWEA - 최장 증가 부분 수 (D3) ](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgWnFE6VcXHBIN_&contestProbId=AWBOKg-a6l0DFAWr&probBoxId=AZgWnFE6VcbHBIN_+&type=PROBLEM&problemBoxTitle=%EC%82%AC%EC%A0%84%ED%8F%89%EA%B0%80&problemBoxCnt=3)
+- [SWEA - 최장 증가 부분 수 (D3) ](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgWnFE6VcXHBIN_&contestProbId=AWBOKg-a6l0DFAWr&probBoxId=AZgWnFE6VcbHBIN_+&type=PROBLEM&problemBoxTitle=%EC%82%AC%EC%A0%84%ED%8F%89%EA%B0%80&problemBoxCnt=3) ✔️ **다시 풀어보자**
 ---
 
 - 📚 **N과 M 시리즈**
