@@ -33,6 +33,9 @@
 
 ### 🔸 백트래킹, DFS, 조합 ✔️ **다시 풀어보자*
 - [SWEA - 햄버거 다이어 (D3) ](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgWnFE6VcXHBIN_&contestProbId=AWT-lPB6dHUDFAVT&probBoxId=AZgWnFE6VcbHBIN_+&type=PROBLEM&problemBoxTitle=%EC%82%AC%EC%A0%84%ED%8F%89%EA%B0%80&problemBoxCnt=++3+)
+
+### 🔸 DP(LIS)
+- [SWEA - 최장 증가 부분 수 (D3) ](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgWnFE6VcXHBIN_&contestProbId=AWBOKg-a6l0DFAWr&probBoxId=AZgWnFE6VcbHBIN_+&type=PROBLEM&problemBoxTitle=%EC%82%AC%EC%A0%84%ED%8F%89%EA%B0%80&problemBoxCnt=3)
 ---
 
 - 📚 **N과 M 시리즈**
