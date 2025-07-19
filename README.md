@@ -51,6 +51,18 @@
 - [SWEA - 최장 증가 부분 수 (D3) ](https://swexpertacademy.com/main/talk/solvingClub/problemView.do?solveclubId=AZgWnFE6VcXHBIN_&contestProbId=AWBOKg-a6l0DFAWr&probBoxId=AZgWnFE6VcbHBIN_+&type=PROBLEM&problemBoxTitle=%EC%82%AC%EC%A0%84%ED%8F%89%EA%B0%80&problemBoxCnt=3) ✔️ **다시 풀어보자**
 ---
 
+## 📅 2025.07.19
+
+### 🔸 조합, 백트래킹
+- [BOJ 15651 - N과 M (3) (실버 3)](https://www.acmicpc.net/problem/15651)
+
+### 🔸 스택, 연결리스트, iterator
+- [BOJ 1406 - 에디터 (1) (실버 2)](https://www.acmicpc.net/problem/1406)
+  
+### 🔸 스택
+- [BOJ 10799 - 쇠막대기 (실버 2)](https://www.acmicpc.net/problem/10799) 
+
+
 - 📚 **N과 M 시리즈**
 
 ### 🔸 조합, 백트래킹
