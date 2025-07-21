@@ -63,6 +63,11 @@
 - [BOJ 10799 - 쇠막대기 (실버 2)](https://www.acmicpc.net/problem/10799) 
 
 
+## 📅 2025.07.21
+
+### 🔸 스택
+- [BOJ 17299 - 오등큰수) (골 3)](https://www.acmicpc.net/problem/17299)
+
 - 📚 **N과 M 시리즈**
 
 ### 🔸 조합, 백트래킹
