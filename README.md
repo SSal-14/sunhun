@@ -78,9 +78,15 @@
 - [[BOJ 15652 - N과 M (4) (실버 3)](https://www.acmicpc.net/problem/15652) ✔️ **다시 풀어보자**
 
 ### 🔸 DP
-- [[BOJ 1463 - 1로 만들기 (실버 3)](https://www.acmicpc.net/problem/1463) ✔️ **다시 풀어보자**
+- [[BOJ 1463 - 1로 만들기 (실버 3)](https://www.acmicpc.net/problem/1463)
+- [[BOJ 11726 - 2×n 타일링 (1) (실버 3)](https://www.acmicpc.net/problem/11726) 
+- [[BOJ 11727 - 2×n 타일링 (2) (실버 3)](https://www.acmicpc.net/problem/11727) 
 
+### 🔸 완전 탐색
+- [BOJ 3085 - 사탕 게임 (실버 2)](https://www.acmicpc.net/problem/3085) 
 
+### 🔸 다익스트라
+- [BOJ 1504 - 특정한 최단 경로 (골드 4)](https://www.acmicpc.net/problem/1504) 
 
 
 > 꾸준한 복습과 기록으로 실력을 다져갑니다. 🚀
