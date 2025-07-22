@@ -54,7 +54,7 @@
 ## 📅 2025.07.19
 
 ### 🔸 조합, 백트래킹
-- [BOJ 15651 - N과 M (3) (실버 3)](https://www.acmicpc.net/problem/15651)
+- [BOJ 15651 - N과 M (3) (실버 3)](https://www.acmicpc.net/problem/15651) ✔️ **다시 풀어보자**
 
 ### 🔸 스택, 연결리스트, iterator
 - [BOJ 1406 - 에디터 (1) (실버 2)](https://www.acmicpc.net/problem/1406)
@@ -66,23 +66,20 @@
 ## 📅 2025.07.21
 
 ### 🔸 스택
-- [BOJ 17299 - 오등큰수 (골드 3)](https://www.acmicpc.net/problem/17299)
+- [BOJ 17299 - 오등큰수 (골드 3)](https://www.acmicpc.net/problem/17299) ✔️ **다시 풀어보자**
 
 ### 🔸 우선순위 큐, TREE MAP
 - [BOJ 7662 - 이중 우선순위 (골드 4)](https://www.acmicpc.net/problem/17299)
 
 
-
-
-- 📚 **N과 M 시리즈**
+## 📅 2025.07.22
 
 ### 🔸 조합, 백트래킹
-- [[BOJ 15649 - N과 M (1) (실버 3)](https://www.acmicpc.net/problem/15649) 
-  ✔️ **다시 풀어보자**
-  
-- [[BOJ 15650 - N과 M (2) (실버 3)](https://www.acmicpc.net/problem/15650) 
-  ✔️ **다시 풀어보자**
----
+- [[BOJ 15652 - N과 M (4) (실버 3)](https://www.acmicpc.net/problem/15652) ✔️ **다시 풀어보자**
+
+### 🔸 DP
+- [[BOJ 1463 - 1로 만들기 (실버 3)](https://www.acmicpc.net/problem/1463) ✔️ **다시 풀어보자**
+
 
 
 
