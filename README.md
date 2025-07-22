@@ -87,7 +87,5 @@
 
 ### 🔸 다익스트라
 - [BOJ 1504 - 특정한 최단 경로 (골드 4)](https://www.acmicpc.net/problem/1504)
-- <a href="https://www.acmicpc.net/problem/1504" target="_blank">Go</a>
-
 
 > 꾸준한 복습과 기록으로 실력을 다져갑니다. 🚀
