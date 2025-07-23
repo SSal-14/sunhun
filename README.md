@@ -88,4 +88,16 @@
 ### 🔸 다익스트라
 - [BOJ 1504 - 특정한 최단 경로 (골드 4)](https://www.acmicpc.net/problem/1504)
 
+
+## 📅 2025.07.23
+
+### 🔸 다익스트라
+- [BOJ 1916 - 최소비용 구하기 (골드 5)](https://www.acmicpc.net/problem/1916)
+- [BOJ 11779 - 최소비용 구하기(2) (골드 3)](https://www.acmicpc.net/problem/11779)
+
+### 🔸 우선순위 큐
+- [BOJ 1655 - 가운데를 말해요 (골드 2)](https://www.acmicpc.net/problem/1655)
+
+
+
 > 꾸준한 복습과 기록으로 실력을 다져갑니다. 🚀
