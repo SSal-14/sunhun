@@ -160,9 +160,14 @@
 - [BOJ 14503 로봇 청소기 (골드 5)](https://www.acmicpc.net/problem/14503)
 
 
+## 📅 2025.08.03
+### 🔸 구현
+- [BOJ 14502 연구소 (골드 4)](https://www.acmicpc.net/problem/14502)
+- [BOJ 2146 다리 만들기 (골드 3)](https://www.acmicpc.net/problem/2146)
+
 ## 📅 2025.08.04
 ### 🔸 구현
-- [BOJ 3190 연구소 (골드 4)](https://www.acmicpc.net/problem/3190)
+- [BOJ 3190 뱀 (골드 4)](https://www.acmicpc.net/problem/3190)
 
 ### 🔸 그래프
 - [BOJ 13549 숨바꼭질 3 (골드 5)](https://www.acmicpc.net/problem/13549)
