@@ -148,10 +148,6 @@
 - [BOJ 22866 - 탑 보기 (골드 3)](https://www.acmicpc.net/problem/22866)
 - [BOJ 2493 - 탑 (골드 5)](https://www.acmicpc.net/problem/2493)
 
-## 📅 2025.08.01
-### 🔸 스택
-- [BOJ 22866 - 탑 보기 (골드 3)](https://www.acmicpc.net/problem/22866)
-- [BOJ 2493 - 탑 (골드 5)](https://www.acmicpc.net/problem/2493)
 
 ## 📅 2025.08.01
 ### 🔸 스택
@@ -163,13 +159,6 @@
 - [BOJ 16926 배열 돌리기 (1) (골드 5)](https://www.acmicpc.net/problem/16926)
 - [BOJ 14503 로봇 청소기 (골드 5)](https://www.acmicpc.net/problem/14503)
 
-
-## 📅 2025.08.04
-### 🔸 구현
-- [BOJ 14502 연구소 (골드 4)](https://www.acmicpc.net/problem/14502)
-
-### 🔸 그래프
-- [BOJ 2146 다리 만들기 (골드 3)](https://www.acmicpc.net/problem/2146)
 
 ## 📅 2025.08.04
 ### 🔸 구현
