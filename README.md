@@ -171,6 +171,12 @@
 ### 🔸 그래프
 - [BOJ 2146 다리 만들기 (골드 3)](https://www.acmicpc.net/problem/2146)
 
+## 📅 2025.08.04
+### 🔸 구현
+- [BOJ 3190 연구소 (골드 4)](https://www.acmicpc.net/problem/3190)
+
+### 🔸 그래프
+- [BOJ 13549 숨바꼭질 3 (골드 5)](https://www.acmicpc.net/problem/13549)
 
   
 > 꾸준한 복습과 기록으로 실력을 다져갑니다. 🚀
